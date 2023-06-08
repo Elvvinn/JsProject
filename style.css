@@ -36,6 +36,9 @@ nav {
     outline: none;
     padding: 5px;
 }
+.searchInput &::placeholder { 
+    color: #369e62;
+}
 
 .searchInput::placeholder {
     color: lightgray;
