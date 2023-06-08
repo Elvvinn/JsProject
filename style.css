@@ -33,6 +33,8 @@ nav {
 .searchInput {
     border: none;
     background-color: transparent;
+    outline: none;
+    padding: 5px;
 }
 
 .searchInput::placeholder {
